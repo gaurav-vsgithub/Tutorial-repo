@@ -1,1 +1,1 @@
-These are the utility functions for my software 3.
+These are the utility functions for my software version 6.
